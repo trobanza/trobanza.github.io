@@ -9,3 +9,6 @@ logo: "/elementos/imagenes/marcatrobanza/logotrobanza.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/elementos/imagenes/marcatrobanza/favicon.ico"
+
+# Color de sitio
+color_scheme: papelviejo
