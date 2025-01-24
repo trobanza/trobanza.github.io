@@ -1,6 +1,9 @@
-Para todo bajo el directorio /cantigasentexto/:
+Para cualquier texto bajo el directorio /texto/cantigas/:
 
-{
+```
+Copyright (C) 2025 by Uriel Sebastian Soto Vargas
+I release the texts in Trobança under the directory /texto/cantigas/ into the CC0:
+
 CC0 1.0 Universal
 
 Statement of Purpose
@@ -117,10 +120,11 @@ Affirmer's express Statement of Purpose.
 
 For more information, please see
 <http://creativecommons.org/publicdomain/zero/1.0/>
-}
+```
+
 Para el tema just-the-docs:
 
-{
+```
 MIT License
 
 Copyright (c) 2022 just-the-docs
@@ -142,4 +146,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-}
+```
