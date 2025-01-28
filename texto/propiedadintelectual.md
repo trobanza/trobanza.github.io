@@ -4,10 +4,19 @@ layout: home
 ---
 
 # Propiedad intelectual
-
+{: .no_toc }
 Trobança sigue las **leyes estadounidenses** de *propiedad intelectual* y las licencias de *propiedad intelectual* en inglés son más convenientes para los propósitos de Trobança y, por ende, partes de esta página fueron escritas en inglés.
 
-### Trobança usa un generador de sitios web estáticos llamado "Jekyll"
+## Tabla de contenido
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+### Para "Jekyll"
+Trobança usa un generador de sitios web estáticos llamado "Jekyll"
 ```
 Jekyll is © 2008-present by Tom Preston-Werner and Jekyll contributors
 
@@ -22,7 +31,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-### Trobança usa un tema de Jekyll llamado "Just the Docs"
+### Para "Just the Docs"
+Trobança usa un tema de Jekyll llamado "Just the Docs"
 ```
 Just the Docs is © 2017-2025 by Patrick Marsceill.
 
@@ -49,10 +59,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-### Para cualquier texto bajo el directorio /texto/cantigas/ perteneciente a Trobança:
+### Para cualquier texto bajo el directorio "/texto/cantigas/" perteneciente a Trobança:
+Añadí esta licencia en caso de que mis transcripciones sean aplicables a las leyes de propiedad intelectual.
 ```
 Copyright (C) 2025 by Uriel Sebastian Soto Vargas
-I release the texts in Trobança under the directory /texto/cantigas/ into the CC0:
+I release the texts in Trobança under the directory "/texto/cantigas/" into the CC0:
 
 CC0 1.0 Universal
 
