@@ -2,7 +2,9 @@
 title: Portada
 layout: home
 ---
-![El logo de Trobança.](/elementos/imagenes/marcatrobanza/logotrobanza.png){:width="65%"}
+![El logo de Trobança.](/elementos/imagenes/marcatrobanza/sanvalentinmartiriotrobanza.png){:width="65%"}
+
+<sup>*El 14 de febrero del 270, el bienaventurado San Valentín fue apedreado y decapitado por defender el sacramento del matrimonio.*</sup>
 
 Este sitio trata de la *lírica galaicoportuguesa* y el idioma *galaicoportugués medieval* en general.
 
