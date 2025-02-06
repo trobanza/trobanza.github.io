@@ -1,6 +1,6 @@
 ---
 title: Propiedad intelectual
-layout: home
+nav_order: 4
 ---
 
 # Propiedad intelectual
@@ -59,11 +59,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-### Para cualquier texto bajo el directorio "/texto/cantigas/" perteneciente a Trobança:
-Añadí esta licencia en caso de que mis transcripciones sean aplicables a las leyes de propiedad intelectual.
+### Para cualquier texto bajo el directorio "/texto/" perteneciente a Trobança:
+Añadí esta licencia en caso de que mis transcripciones y mis recursos sean aplicables a las leyes de propiedad intelectual.
+Trobança tambien contiene enlaces a sitios externos los recursos externos
 ```
 Copyright (C) 2025 by Uriel Sebastian Soto Vargas
-I release the texts in Trobança under the directory "/texto/cantigas/" into the CC0:
+I release the texts in "Trobança" (defined below) under the directory "/texto/" into the CC0.
+Trobança is an online web page owned by Uriel Sebastian Soto Vargas that covers a wide range of content relating to the medieval galician-portuguese language.
+Below is the CC0.
 
 CC0 1.0 Universal
 

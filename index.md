@@ -1,5 +1,6 @@
 ---
 title: Portada
+nav_order: 1
 layout: home
 ---
 ![El logo de Trobança.](/elementos/imagenes/marcatrobanza/sanvalentinmartiriotrobanza.png){:width="65%"}

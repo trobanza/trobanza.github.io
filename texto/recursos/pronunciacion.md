@@ -1,7 +1,7 @@
 ---
 title: Pronunciación
 parent: Recursos
-layout: home
+nav_order: 2
 ---
 
 # Pronunciación

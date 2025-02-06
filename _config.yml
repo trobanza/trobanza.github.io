@@ -12,3 +12,10 @@ favicon_ico: "/elementos/imagenes/marcatrobanza/favicon.ico"
 
 # Color de sitio
 color_scheme: papelviejo
+
+defaults:
+  -
+    scope:
+      path: "texto"
+    values:
+      layout: "default"
