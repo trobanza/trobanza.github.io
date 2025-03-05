@@ -65,7 +65,7 @@ Trobança tambien contiene enlaces a sitios externos los recursos externos
 ```
 Copyright (C) 2025 by Uriel Sebastian Soto Vargas
 I release the texts in "Trobança" (defined below) under the directory "/texto/" into the CC0.
-Trobança is an online web page owned by Uriel Sebastian Soto Vargas that covers a wide range of content relating to the medieval galician-portuguese language.
+"Trobança" is an online web page owned by Uriel Sebastian Soto Vargas that covers a wide range of content relating to the medieval galician-portuguese language.
 Below is the CC0.
 
 CC0 1.0 Universal
